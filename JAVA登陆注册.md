@@ -43,7 +43,6 @@
     }
 其中selectUsername是一个String类型的变量，用来存储查询语句sql；
 
-
 **参考文档：**
 <br>总项目设计 https://www.cnblogs.com/martin0319/p/7780449.html<br>
 Servlet相关文档 https://developer.aliyun.com/article/1316019<br>
@@ -54,3 +53,6 @@ PreparedStatement 详解 https://cloud.tencent.com/developer/article/2339451<br>
 https://blog.csdn.net/qq_57747969/article/details/132656450<br>
 https://blog.csdn.net/wuyomhchang/article/details/134401683<br>
 https://blog.csdn.net/Rouer_jia/article/details/135257672<br>
+**上传GitHub**
+<br>https://blog.csdn.net/qq_45432276/article/details/132109657<br>
+https://blog.csdn.net/qq_37954460/article/details/120628439<br>https://blog.csdn.net/l_zl2021/article/details/126503684<br>
